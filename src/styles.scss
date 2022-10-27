@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+table tbody tr:hover{
+      background-color: rgb(215, 215, 244);
+
+}
+.validation-error{
+      color: rgb(244, 114, 114);
+}
+.footer{
+      display: flex;
+      justify-content: center;
+}
+.list-row{
+      padding: 0 5rem 0 5rem;
+}
+#searchbar{
+      color:cadetblue;
+      border: 3px solid rgb(143, 214, 143);
+}
